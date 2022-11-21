@@ -8,7 +8,7 @@
 import UIKit
 
 // MARK: - Protocol
-protocol CustomSegmentControlDelegate: AnyObject{
+protocol CustomSegmentControlDelegate: NSObject{
     func didIndexChange(at index: Int)
 }
 

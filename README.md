@@ -1,7 +1,7 @@
 # Custom Segment Control
 Create segment control like instagram pofile followers and following.
 
-<video autoplay src="demo/customSegmentControlDemo.mp4" width="40%" >demo video</video>
+<video autoplay loop alt="demo vidoe" src="demo/customSegmentControlDemo.mp4" width="40%" ></video>
 
 ## Attribute Inspecter
 - Text Color: is the button tintColor.
