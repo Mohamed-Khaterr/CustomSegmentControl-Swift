@@ -2,6 +2,7 @@
 Create segment control like instagram pofile followers and following.
 
 <video autoplay loop alt="demo vidoe" src="demo/customSegmentControlDemo.mp4" width="40%" ></video>
+[Demo Video](https://github.com/Mohamed-Khaterr/CustomSegmentControl-Swift/tree/main/demo/demo.mp4)
 
 ## Attribute Inspecter
 - Text Color: is the button tintColor.
